@@ -1,0 +1,15 @@
+﻿Feature,Mean|SHAP|
+Phyiscal Health,0.1507603623732557
+Dental Health,0.07977238444039826
+Prescription Sleep Medication,0.06369805627379263
+Medication Keeps Patient from Sleeping,0.0613468209534158
+Employment,0.053588268824497846
+Stress Keeps Patient from Sleeping,0.052862497232848596
+Bathroom Needs Keeps Patient from Sleeping,0.04294840780369921
+Trouble Sleeping,0.036713503529502416
+Race,0.03643670894440803
+Mental Health,0.03531419020328415
+Gender,0.0350868195372074
+Uknown Keeps Patient from Sleeping,0.031884754600135214
+Pain Keeps Patient from Sleeping,0.01840747705676362
+Age,0.0

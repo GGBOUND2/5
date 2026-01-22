@@ -1,0 +1,114 @@
+{
+  "target_col": "Number of Doctors Visited",
+  "selected_features": [
+    "Age",
+    "Phyiscal Health",
+    "Mental Health",
+    "Dental Health",
+    "Employment",
+    "Stress Keeps Patient from Sleeping",
+    "Medication Keeps Patient from Sleeping",
+    "Pain Keeps Patient from Sleeping",
+    "Bathroom Needs Keeps Patient from Sleeping",
+    "Uknown Keeps Patient from Sleeping",
+    "Trouble Sleeping",
+    "Prescription Sleep Medication",
+    "Race",
+    "Gender"
+  ],
+  "num_cols": [
+    "Age",
+    "Phyiscal Health",
+    "Mental Health",
+    "Dental Health",
+    "Employment",
+    "Stress Keeps Patient from Sleeping",
+    "Medication Keeps Patient from Sleeping",
+    "Pain Keeps Patient from Sleeping",
+    "Bathroom Needs Keeps Patient from Sleeping",
+    "Uknown Keeps Patient from Sleeping",
+    "Trouble Sleeping",
+    "Prescription Sleep Medication",
+    "Race",
+    "Gender"
+  ],
+  "cat_cols": [],
+  "classes": [
+    0,
+    1,
+    2
+  ],
+  "cat_values": {},
+  "num_ranges": {
+    "Age": {
+      "min": 2.0,
+      "max": 2.0,
+      "mean": 2.0
+    },
+    "Phyiscal Health": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 2.777583187390543
+    },
+    "Mental Health": {
+      "min": -1.0,
+      "max": 4.0,
+      "mean": 1.97723292469352
+    },
+    "Dental Health": {
+      "min": 1.0,
+      "max": 6.0,
+      "mean": 2.9737302977232924
+    },
+    "Employment": {
+      "min": 1.0,
+      "max": 4.0,
+      "mean": 2.8056042031523645
+    },
+    "Stress Keeps Patient from Sleeping": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.26444833625218916
+    },
+    "Medication Keeps Patient from Sleeping": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.05604203152364273
+    },
+    "Pain Keeps Patient from Sleeping": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.2224168126094571
+    },
+    "Bathroom Needs Keeps Patient from Sleeping": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.5078809106830122
+    },
+    "Uknown Keeps Patient from Sleeping": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.4220665499124343
+    },
+    "Trouble Sleeping": {
+      "min": 1.0,
+      "max": 3.0,
+      "mean": 2.402802101576182
+    },
+    "Prescription Sleep Medication": {
+      "min": 1.0,
+      "max": 3.0,
+      "mean": 2.830122591943958
+    },
+    "Race": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 1.3992994746059544
+    },
+    "Gender": {
+      "min": 1.0,
+      "max": 2.0,
+      "mean": 1.563922942206655
+    }
+  }
+}
