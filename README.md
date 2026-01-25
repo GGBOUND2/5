@@ -13,7 +13,7 @@
 │       ├── final_pipe_ds3.joblib
 │       ├── meta_ds3.json
 │       └── bg_sample_ds3.csv
-├── app.py                   # Streamlit应用（运行notebook后生成）
+├── app.py                   # Streamlit应用
 ├── requirements.txt         # Python依赖包
 ├── README.md               # 本文件
 └── 20251109-数据集3-01_副本.ipynb  # Jupyter Notebook
@@ -51,7 +51,7 @@ jupyter notebook
 
 2. 打开 `20251109-数据集3-01_副本.ipynb`
 3. 按顺序运行所有代码块
-4. 运行完成后，会在 `output/artifacts/` 目录生成模型文件，并在根目录生成 `app.py`
+4. 运行完成后，会在 `output/artifacts/` 目录生成模型文件
 
 ### 4. 运行Streamlit应用
 
@@ -67,7 +67,7 @@ streamlit run app.py
 
 1. 将所有文件推送到GitHub仓库：
    - `requirements.txt`
-   - `app.py`（运行notebook后生成）
+   - `app.py`
    - `output/artifacts/` 文件夹（包含模型文件）
    - `data/数据集3.xlsx`（数据集文件）
    - `README.md`
@@ -135,3 +135,4 @@ streamlit run app.py
 - 检查所有文件是否已上传到GitHub
 - 确认 `requirements.txt` 包含所有依赖
 - 查看Streamlit Cloud的日志以获取详细错误信息
+
